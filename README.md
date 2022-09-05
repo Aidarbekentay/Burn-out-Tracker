@@ -1,1 +1,1 @@
-# Burn-out-Tracker
+# Burn-out-Tracker application for Android
